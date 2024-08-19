@@ -1,3 +1,3 @@
 # JavaScript_Platformer
 
-### This platformer was been created with video on YouTube, but I am forgot name of this video. Thank author of this video!
+### This platformer created using video from YouTube, but I forgot the name of this video. Thanks to author of this video!
